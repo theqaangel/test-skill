@@ -1,0 +1,14 @@
+{
+  "name": "teambot-conversation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "behaviour.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teambot"
+  ],
+  "author": "",
+  "license": "ISC"
+}

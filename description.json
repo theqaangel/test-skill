@@ -1,0 +1,26 @@
+{
+    "name": "Conversations",
+    "description": "Basic conversation functionallity",
+    "commands": [
+        {
+            "name": "hello",
+            "usage": "hello, hi, hallo",
+            "desctiption": "Prints your name - if you haven't met the bot yet it will ask for your name."
+        },
+        {
+            "name": "set my name",
+            "usage": "call me {name}, my name is {name}",
+            "desctiption": "Set your name to the bot"
+        },
+        {
+            "name": "who am I",
+            "usage": "who am i, what is my name",
+            "desctiption": "The bot will say you name"
+        },
+        {
+            "name": "what can you do",
+            "usage": "what can you do",
+            "desctiption": "The bot will tell you about all instaled integrations and features"
+        }
+    ]
+}
